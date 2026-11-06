@@ -47,5 +47,5 @@ Java | REST Assured
 
 ## Connect With Me
 - GitHub: [KhushiP43](https://github.com/KhushiP43)
-- Email: khushipagariya43@gmail.com
+- Email: khushipagariya2@gmail.com
 - Location: Pune, India
